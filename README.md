@@ -1,16 +1,17 @@
-## Hi there 👋
+# X-EPRINT
 
-<!--
-**xeprint2026/xeprint2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning Invariant Website Fingerprints across Heterogeneous Encrypted Proxy Environments
 
-Here are some ideas to get you started:
+This repository provides access information for the target-agnostic
+implementation of X-EPRINT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+X-EPRINT is a research tool for encrypted website traffic analysis.
+Because it can be used to conduct website fingerprinting attacks,
+its source code and datasets are distributed through an access
+request process to reduce the risk of misuse.
+
+To request access, please complete the
+[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe6Kj8x24FRqcxdg9Ec28bjV5jBtfTGoR1sBW8sWAtHkKOPEA/viewform?usp=publish-editor) and confirm that the provided
+materials will be used exclusively for academic research.
+Requests will be reviewed manually before access is granted.
+
